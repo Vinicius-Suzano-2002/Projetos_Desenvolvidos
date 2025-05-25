@@ -3,11 +3,13 @@
 Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos nas áreas de automação e mecatrônica, utilizando programaçõesm em Python, C++ e blocos. Também detalhar de projetos com uso de CLPs, Arduino e integração com sistemas supervisórios (SCADA).
 
 ## Projetos incluídos:
-- Controle de motor com Arduino + relé
-- Leitura de sensores com Raspberry Pi + MQTT
-- Comunicação com CLP Siemens via Modbus TCP
-- Automação residencial com Node-RED e ESP8266
+- Poste Solar Automático
+- Amassador de Latas Automático
+- DISPOSITIVO IOT PARA COMPARTILHAMENTO E MAPEAMENTO DE MEDIÇÕES EM AMBIENTE URBANO.
+- Programação, em CLP, para automação de segurança predial.
+- Programação, em CLP, para alarme de status não comandado em iluminação predial.
+- Supervisórios de Automação Predial.
 
 ### 📫 Entre em contato
-- [LinkedIn](https://linkedin.com/in/seuperfil)
-- Email: seu@email.com
+- www.linkedin.com/in/marcus-vinicius-vasconcelos-suzano-24079b242
+- Email: vinicius.jean@outlook.com
