@@ -1,0 +1,3 @@
+Como projeto da disciplina de projeto e desenvolvimento de protótipos, desenvolvemos um amassador de latas automático
+Para a parte mecânica, utilizamos diversos tipos de materiais para diversificados métodos de fabricação, tais como: usinagem, corte a laser, impressora 3D, fresadora, entre outros.
+Para a parte eletrônica, utilizamos o Arduino ligado aos sensores necessários e a um relé para o acionamento de motor.
