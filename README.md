@@ -1,6 +1,6 @@
 # Portfólio - Engenheiro Mecatrônico com experiência em Automação.
 
-Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos nas áreas de automação e mecatrônica, utilizando programaçõesm em Python, C++ e blocos. Também detalhar de projetos com uso de CLPs, Arduino e integração com sistemas supervisórios (SCADA).
+Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos nas áreas de automação e mecatrônica, utilizando programações em Python, C++ e Blocos. Também detalhes de projetos com uso de CLPs, Arduino e integração com sistemas supervisórios (SCADA).
 
 ## Projetos incluídos:
 - Poste Solar Automático
